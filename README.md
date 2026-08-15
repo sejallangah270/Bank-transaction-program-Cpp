@@ -3,11 +3,11 @@ Bank Transaction Program in C++
 Project Information
 
 Name: Sejal Langah
-Institute: THE SUFI INSTITUTE (LUARI SHARIF)
-Instructor Name: Miss Chandni Talpur
-Project: Class Activity Project
-Project Title: Bank Transaction Program in C++
-📧 Email: sejallangah@gmail.com
+ Institute:The sufi Institute (luarishareef)
+  Instructor Name: Miss Chandni Talpur
+ Project: Class Activity Project
+ Project Title: Bank Transaction Program in C++
+ 📧 Email: sejallangah@gmail.com
 🔗 LinkedIn: https://www.linkedin.com/in/sejal-langah-2a50a23a3/
 GitHub: https://github.com/sejallangah270
 
