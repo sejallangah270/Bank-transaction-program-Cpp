@@ -53,10 +53,4 @@ Sejal Langah
 
 BS Information Technology Student
 
-## Professional Profiles
 
-📧 Email: sejallangah@gmail.com
-
-🔗 LinkedIn: https://www.linkedin.com/in/sejal-langah-2a50a23a3/
-
-GitHub: https://github.com/sejallangah270
