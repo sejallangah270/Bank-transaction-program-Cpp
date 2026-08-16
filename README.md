@@ -1,4 +1,4 @@
-# Bank Transaction Program in C++
+# Bank Transaction system in C++
 
 ## Project Information
 
